@@ -1,0 +1,2 @@
+class BarangController:
+    pass
